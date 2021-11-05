@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Stephen Muindi and Am a Developer
 <!--
 **MuindiStephen/MuindiStephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
