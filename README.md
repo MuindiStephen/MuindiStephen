@@ -2,6 +2,7 @@
 My name is Stephen Muindi and Am a Developer
 
 -🌱 I’m currently learning WEB DEVELOPMENT and Python
+and
 -🔭 I’m currently working on Web Application Projects and Python projects
  
 <!--
