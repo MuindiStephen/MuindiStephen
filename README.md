@@ -2,7 +2,6 @@
 My name is Stephen Muindi and Am a Developer
 
 -🌱 I’m currently learning WEB DEVELOPMENT and Python.
--🔭 I’m currently working on Web Application Projects and Python projects
  
 <!--
 **MuindiStephen/MuindiStephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
