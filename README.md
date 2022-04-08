@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Stephen Muindi and Am a Developer
 
--🌱 I’m currently learning WEB DEVELOPMENT and Python.
+-🌱 I’m currently learning WEB DEVELOPMENT ie. ReactJs and python.
  
 <!--
 **MuindiStephen/MuindiStephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
