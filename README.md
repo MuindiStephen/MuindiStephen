@@ -19,8 +19,8 @@ Here are some ideas to get you started:
  -⚡ Fun fact: Make a hay when the sun shines
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuindiStephen&theme=radical)
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
 
 
 
