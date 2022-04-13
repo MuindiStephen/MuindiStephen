@@ -22,13 +22,16 @@ Here are some ideas to get you started:
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
 
+### Outstanding repos
 <a href="https://github.com/MuindiStephen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuindiStephen&repo=Lipa-na-Mpesa-Intergration" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuindiStephen&repo=Web-Browser" />
 </a>
 
+### My Tech expo, what I Stephen Muindi interact with:
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&labelColor=black&logo=Django)](https://www.djangoproject.com/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js)](https://nodejs.dev/)
 [![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-2496ED?style=flat-square&labelColor=black&logo=ApacheAirflow)](https://airflow.apache.org/)
