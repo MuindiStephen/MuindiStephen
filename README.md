@@ -23,9 +23,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuindiStephen&repo=Web-Browser" />
-</a>
 
 ### My Tech expo:
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&labelColor=black&logo=Django)](https://www.djangoproject.com/)
@@ -65,6 +62,7 @@ Here are some ideas to get you started:
 [![Codecademy](https://img.shields.io/badge/-Codecademy-1F4056?style=flat-square&labelColor=black&logo=Codecademy)](https://www.codecademy.com/catalog)
 [![Anchor](https://img.shields.io/badge/-Anchor-5000B9?style=flat-square&labelColor=black&logo=Anchor)](https://anchor.fm/)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&labelColor=black&logo=Hashnode)](https://hashnode.com/)
+[[!Kotlin](https://img.shields.io/badge/-Kotlin-2962FF?style=flat-square&labelColor=black&logo=Kotlin)](https://kotlinlang.org/)
 
 
 
