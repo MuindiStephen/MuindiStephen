@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Stephen Muindi and Am a Developer
 
--🌱 I’m currently learning WEB DEVELOPMENT ie. ReactJs and python.
+-🌱 I’m currently learning Android DEVELOPMENT ie. KOTLIN and JAVA.
  
 <!--
 **MuindiStephen/MuindiStephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuindiStephen&repo=Web-Browser" />
 </a>
 
-### My Tech expo, what I Stephen Muindi interact with:
+### My Tech expo:
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&labelColor=black&logo=Django)](https://www.djangoproject.com/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js)](https://nodejs.dev/)
 [![Vuejs](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&labelColor=black&logo=Vue.js)](https://vuejs.org/)
