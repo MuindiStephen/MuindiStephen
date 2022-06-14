@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 [![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
 
-### Outstanding repos
-<a href="https://github.com/MuindiStephen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuindiStephen&repo=Lipa-na-Mpesa-Intergration" />
-</a>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MuindiStephen&repo=Web-Browser" />
