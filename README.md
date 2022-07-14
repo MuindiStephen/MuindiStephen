@@ -3,14 +3,15 @@ My name is Stephen Muindi and Am a Developer
 
 - 👯 I’m looking to collaborate on OPEN SOURCE CODES
 -  -💬 Ask me about web development
-<p float="left">
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
- 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuindiStephen&show_icons=true&theme=radical)
-
-</p>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=MuindiStephen&show_icons=true&theme=radical" /></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen&hide=html&layout=compact&theme=dark" /></td>      
+    </tr>   
+  </table>
+</center>
  
 <!--
 **MuindiStephen/MuindiStephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
