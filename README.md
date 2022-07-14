@@ -3,11 +3,12 @@ My name is Stephen Muindi and Am a Developer
 
 - 👯 I’m looking to collaborate on OPEN SOURCE CODES
 -  -💬 Ask me about web development
-<p float="left" style="background-color:black;">
+<p float="left">
 
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen)](https://github.com/MuindiStephen/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuindiStephen&show_icons=true&theme=radical)
+ 
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuindiStephen&show_icons=true&theme=radical)
 
 </p>
  
@@ -25,9 +26,6 @@ Here are some ideas to get you started:
  -😄 Pronouns: MR/SIR/...
  -⚡ Fun fact: Make a hay when the sun shines
 -->
-
-
-
 
 
 ### My Tech expo:
