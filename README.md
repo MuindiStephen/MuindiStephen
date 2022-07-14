@@ -2,7 +2,7 @@
 My name is Stephen Muindi and Am a Developer
 
 - 👯 I’m looking to collaborate on OPEN SOURCE CODES
--  -💬 Ask me about web development
+-  💬 Ask me about web development
 
 <center>
   <table>
