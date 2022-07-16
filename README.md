@@ -8,7 +8,7 @@ My name is Stephen Muindi and Am a MERN Stack Developer
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=MuindiStephen&show_icons=true&theme=radical" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen&hide=html&layout=compact&theme=dark" /></td>      
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen&hide=html&layout=compact&theme=dark"/></td>      
     </tr>   
   </table>
 </center>
