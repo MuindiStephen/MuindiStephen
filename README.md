@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Stephen Muindi and Am a MERN Stack Developer
+ I'm Stephen Muindi and Am a MERN Stack Developer
 
 - 👯 I’m looking to collaborate on OPEN SOURCE CODES
 -  💬 Ask me about web development
