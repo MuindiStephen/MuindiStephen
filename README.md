@@ -28,7 +28,6 @@ Here are some ideas to get you started:
  -⚡ Fun fact: Make a hay when the sun shines
 -->
 
-
 ### My Tech expo:
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js)](https://nodejs.dev/)
