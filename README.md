@@ -1,8 +1,8 @@
 ### Hi there 👋
  I'm Stephen Muindi and a MERN Stack Developer
 
-- 👯 I’m looking to collaborate on OPEN SOURCE CODES
--  💬 Ask me about web development
+- 👯 I’m looking for new opportunities in Tech.
+-  💬 Consult me, share with me and let's connect & grow!
 
 <center>
   <table>
