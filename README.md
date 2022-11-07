@@ -28,9 +28,9 @@ Here are some ideas to get you started:
  -⚡ Fun fact: Make a hay when the sun shines
 -->
 
-### My Tech Stack
+<!-- ### My Tech Stack -->
 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js)](https://nodejs.dev/)
+<!-- [![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js)](https://nodejs.dev/)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&labelColor=black&logo=webpack)](https://webpack.js.org/)
 [![Google Chrome](https://img.shields.io/badge/-GoogleChrome-4285F4?style=flat-square&labelColor=black&logo=GoogleChrome)](https://www.google.com/chrome/)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&labelColor=black&logo=Heroku)](https://devcenter.heroku.com/start)
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 [![freeCodeCamp](https://img.shields.io/badge/-freeCodeCamp-0A0A23?style=flat-square&labelColor=black&logo=freeCodeCamp)](https://www.freecodecamp.org)
 [![PluralSight](https://img.shields.io/badge/-PluralSight-F15B2A?style=flat-square&labelColor=black&logo=PluralSight)](https://www.pluralsight.com/)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&labelColor=black&logo=Hashnode)](https://hashnode.com/)
-
+ -->
 
 
 
