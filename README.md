@@ -2,7 +2,7 @@
  I'm Stephen Muindi and a Software Developer / RnD 
 
 - 👯 I’m looking for new opportunities in Tech.
--  💬 Consult me, share with me and let's connect & grow!
+-  💬 Consult me, let's share knowledge/skills,connect & grow!
 
 <center>
   <table>
