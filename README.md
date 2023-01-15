@@ -4,6 +4,9 @@
 - 👯 I’m looking for new opportunities in Tech.
 -  💬 Consult me, let's share knowledge/skills,connect & grow!
 
+![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=MuindiStephen&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen&hide=html&layout=compact&theme=dark)
+
 <center>
   <table>
 <!--     <tr>
