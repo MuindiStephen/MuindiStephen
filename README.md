@@ -5,14 +5,16 @@
 -  💬 Consult me, let's share knowledge/skills,connect & grow!
 
 
-<center>
-  <table>
-<!--     <tr>
-       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=MuindiStephen&show_icons=true&theme=radical" /></td>
-       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuindiStephen&hide=html&layout=compact&theme=dark"/></td>        -->
-    </tr>   
-  </table>
-</center>
+## Github Stats
+ ![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuindiStephen&theme=radical) 
+ 
+## Languages & Tools
+
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+
+
  
 <!--
 **MuindiStephen/MuindiStephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
