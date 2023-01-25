@@ -1,12 +1,14 @@
 ### Hi there 👋
  I'm Stephen Muindi and a Software Developer / RnD 
+ 
+ [I am the GDSC Lead of GDSC Kibabii University - 2022/2023 year](https://gdsc.community.dev/kibabii-university/)
 
 - 👯 I’m looking for new opportunities in Tech.
 -  💬 Consult me, let's share knowledge/skills,connect & grow!
 
 
 ## Github Stats
- ![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuindiStephen&theme=radical) 
+ [My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuindiStephen&theme=radical) 
  
 ## Languages & Tools
 
