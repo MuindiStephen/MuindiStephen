@@ -8,7 +8,7 @@
 
 
 ## Github Stats
- [My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuindiStephen&theme=radical) 
+ ![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuindiStephen&theme=radical) 
  
 ## Languages & Tools
 
