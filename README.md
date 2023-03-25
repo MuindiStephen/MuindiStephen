@@ -6,6 +6,11 @@
 - 👯 I’m looking for new opportunities in Tech.
 -  💬 Consult me, let's share knowledge/skills,connect & grow!
 
+ 
+## Connect me!
+[Linkedin](https://www.linkedin.com/in/stephen-muindi-3a31741a0/)  |
+[Twitter](https://twitter.com/MuindiStephen_)
+
 
 ## Github Stats
  ![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuindiStephen&theme=radical) 
