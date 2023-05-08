@@ -5,6 +5,7 @@
 
 - 👯 I’m looking for new opportunities in Tech.
 -  💬 Consult me, let's share knowledge/skills,connect & grow!
+-  Technical blog : [Medium](https://medium.com/@stephenmuindi241)
 
  
 ## Connect me!
