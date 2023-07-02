@@ -1,16 +1,11 @@
-### Hi there 👋
- I'm Stephen Muindi and a Software Developer / RnD 
+## Hello there 👋
+# 
+### I'm Stephen Muindi and a Software Developer / RnD 
  
- [I was the GDSC Lead of GDSC Kibabii University - 2022/2023 year (ie. Aug 2022-1st June 2023)](https://gdsc.community.dev/kibabii-university/)
+ > Technical blog : [Medium](https://medium.com/@stephenmuindi241)
 
-- 👯 I’m looking for new opportunities in Tech.
--  💬 Consult me, let's share knowledge/skills,connect & grow!
--  Technical blog : [Medium](https://medium.com/@stephenmuindi241)
--  Learning DevOps, Cloud providers:Azure and AWS.
-
- 
 ## Connect me!
-[Linkedin](https://www.linkedin.com/in/stephen-muindi-3a31741a0/)  |
+> [Linkedin](https://www.linkedin.com/in/stephen-muindi-3a31741a0/)  |
 [Twitter](https://twitter.com/MuindiStephen_)
 
 ##
