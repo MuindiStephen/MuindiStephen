@@ -1,7 +1,7 @@
 ## Hello there 👋
 ### I'm Stephen Muindi and a Software Developer / RnD 
  
- > Technical blog : [Medium](https://medium.com/@stephenmuindi241) | [Dev.to](https://dev.to/muindistephen
+ > Technical blog : [Medium](https://medium.com/@stephenmuindi241) | [Dev.to](https://dev.to/muindistephen)
 
  > Learning and Building software projects
 
