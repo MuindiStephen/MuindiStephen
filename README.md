@@ -1,11 +1,13 @@
 ## Hello there 👋
 ### I'm Stephen Muindi and a Software Developer / RnD 
  
- > Technical blog : [Medium](https://medium.com/@stephenmuindi241)
+ > Technical blog : [Medium](https://medium.com/@stephenmuindi241) | [Dev.to](https://dev.to/muindistephen)
 
 ## Connect me!
 > [Linkedin](https://www.linkedin.com/in/stephen-muindi-3a31741a0/)  |
 [Twitter](https://twitter.com/MuindiStephen_)
+
+> Learning and Building software projects
 
 ##
 <p>
