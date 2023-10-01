@@ -11,12 +11,11 @@
 
 
 ##
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MuindiStephen&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Steve%MD%27s%20Github%20Stats" align="center"/>
-</p>
 
-## Github Stats
- ![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuindiStephen&theme=radical) 
+ ![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuindiStephen&theme=radical)
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=MuindiStephen&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Steve%MD%27s%20Github%20Stats" align="center"/>
+ 
 
 <!--
  ## Languages & Tools
