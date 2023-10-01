@@ -1,5 +1,5 @@
-## Hello there 👋
-### I'm Stephen Muindi and a Software Developer / RnD 
+<h1></h1> Hello there 👋</h1>
+I'm Stephen Muindi and a Software Developer / RnD 
  
  > Technical blog : [Medium](https://medium.com/@stephenmuindi241) | [Dev.to](https://dev.to/muindistephen)
 
