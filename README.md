@@ -3,7 +3,8 @@
  
  > Technical blog : [Medium](https://medium.com/@stephenmuindi241) | [Dev.to](https://dev.to/muindistephen)
 
- > Learning and Building software projects
+ - Working on Multimodule structured Android projects using Jetpack compose 
+ - Working on DevOps engineering and Springboot backend projects
 
 ## Connect me!
 > [Linkedin](https://www.linkedin.com/in/stephen-muindi-3a31741a0/)  |
@@ -17,13 +18,14 @@
 
 ## Github Stats
  ![My GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MuindiStephen&theme=radical) 
+
+<!--
+ ## Languages & Tools
  
-## Languages & Tools
-
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-
+ <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+ <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+ <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
+-->
 
  
 <!--
