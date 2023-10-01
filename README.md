@@ -1,5 +1,5 @@
-<h1></h1> Hello there 👋</h1>
-I'm Stephen Muindi and a Software Developer / RnD 
+<h1>Hi Software Engineers👋</h1>
+<h1 color="green">I'm Stephen Muindi and a Software Developer / RnD </h1>
  
  > Technical blog : [Medium](https://medium.com/@stephenmuindi241) | [Dev.to](https://dev.to/muindistephen)
 
