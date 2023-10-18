@@ -1,8 +1,7 @@
 <h1>Hi Software Engineers👋</h1>
 <h1 color="green">I'm Stephen Muindi and a Software Developer / RnD </h1>
  
- - Working on Multimodule structured Android projects using Jetpack compose 
- - Working on DevOps engineering and Springboot backend projects
+ - Working on Application projects 
 
 ### Technical blog
 >  [Medium](https://medium.com/@stephenmuindi241) | [Dev.to](https://dev.to/muindistephen)
