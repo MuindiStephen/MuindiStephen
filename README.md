@@ -1,7 +1,7 @@
 <h1>Hi Software Engineers👋</h1>
 <h1 color="green">I'm Stephen Muindi and a Software Developer / RnD </h1>
  
- - Working on Application projects 
+ - Building software projects
 
 ### Technical blog
 >  [Medium](https://medium.com/@stephenmuindi241) | [Dev.to](https://dev.to/muindistephen)
