@@ -1,5 +1,5 @@
 <h1>Hi Software Engineers👋</h1>
-<h1 color="green">I'm Stephen Muindi and a Software Developer / RnD </h1>
+<h1 color="green">I'm a Software Developer</h1>
  
  - Building software projects
 
