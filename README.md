@@ -1,5 +1,5 @@
-<p> Hi, Software Engineers👋</p>
-<p>👨‍🍳 .java    |   .kt |    .js |   cloud native</p>
+<p><strong> Hi, Software Engineers 👋</strong></p>
+<p>👨‍🍳 .java  | .kt |  .js |   cloud native</p>
 
 
 
